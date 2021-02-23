@@ -1,10 +1,4 @@
-<div style="
-    width: 100%;
-    background: white;
-    border-radius: 200px;
-    padding: 50px 35px;
-    box-shadow: inset black 0px 0px 15px -10px;
-">
+<div style="width: 100%; background: white; border-radius: 200px; padding: 50px 35px; box-shadow: inset black 0px 0px 15px -10px;">
   <img src="/assets/js-world-conference-logo.png" alt="JS World Conference logo" style="max-width:100%;">
 </div>
 
