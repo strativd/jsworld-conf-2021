@@ -1,0 +1,22 @@
+<svg fill="none" width="1200px" height="200px" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
+  <foreignObject width="100%" height="200px">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .logo-container {
+          width: 100%;
+          background: white;
+          border-radius: 200px;
+          padding: 50px 35px;
+          box-shadow: inset black 0px 0px 15px -10px;
+        }
+        img {
+          max-width: 100%;
+        }
+      </style>
+
+      <div class="logo-container">
+        <img src="/assets/js-world-conference-logo.png" alt="JSworld Conference logo" />
+      </div>
+    </div>
+  </foreignObject>
+</svg>
