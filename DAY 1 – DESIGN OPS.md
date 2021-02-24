@@ -1,17 +1,17 @@
 # DAY 1 – DESIGN OPS
 
 * [Design Systems 101](#design-systems-101)
-  + [What is a Design System?](#what-is-a-design-system-)
-  + [What problems do they solve?](#what-problems-do-they-solve-)
+  + [What is a Design System?](#what-is-a-design-system)
+  + [What problems do they solve?](#what-problems-do-they-solve)
   + [Examples](#examples)
   + [Learn more](#learn-more)
 * [Access Driven Development](#access-driven-development)
-  + [Why care about accessibility?](#why-care-about-accessibility-)
+  + [Why care about accessibility?](#why-care-about-accessibility)
   + [Accessibility in Javascript](#accessibility-in-javascript)
   + [Testing for A11y](#testing-for-a11y)
   + [Learn more](#learn-more-1)
-* [Third piece of the Frontend Pie: CSS](#third-piece-of-the-frontend-pie--css)
-* [Encoding Emojis 🤓](#encoding-emojis---)
+* [Third piece of the Frontend Pie: CSS](#third-piece-of-the-frontend-pie-css)
+* [Encoding Emojis 🤓](#encoding-emojis-)
 
 _____
 
