@@ -1,5 +1,5 @@
 <svg fill="none" width="1200px" height="200px" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
-  <foreignObject width="1200px" height="200px">
+  <foreignObject width="100%" height="200px">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         .logo-container {
@@ -15,7 +15,7 @@
       </style>
 
       <div class="logo-container">
-        <img src="./js-world-conference-logo.png" alt="JSworld Conference logo" />
+        <img src="/assets/js-world-conference-logo.png" alt="JSworld Conference logo" />
       </div>
     </div>
   </foreignObject>
