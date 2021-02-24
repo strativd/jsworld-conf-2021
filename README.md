@@ -18,7 +18,7 @@
 
 HTML + CSS + CSS-in-JS + Accessibility + Localization
 
-**Day 2 - Full-stack**
+### [Day 2 - Full-stack](/DAY%202%20–%C2%A0FULL-STACK.md)
 
 > Node.js + Express + Typescript + GraphQL
 
