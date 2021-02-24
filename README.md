@@ -1,18 +1,4 @@
-<style>
-  .logo-container {
-    width: 100%;
-    background: white;
-    border-radius: 200px;
-    padding: 50px 35px;
-    box-shadow: inset black 0px 0px 15px -10px;
-  }
-</style>
-
-<div class="logo-container" markdown="1">
-
-![JSworld Conference logo](/assets/js-world-conference-logo.png)
-
-</div>
+![JSworld Conference logo](/assets/logo-styles.svg)
 
 # 2021 JSworld Conference by [Frontend Love](https://frontenddeveloperlove.com/) ❤️
 
