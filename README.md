@@ -20,16 +20,16 @@ HTML + CSS + CSS-in-JS + Accessibility + Localization
 
 ### [Day 2 - Full-stack](/DAY%202%20–%C2%A0FULL-STACK.md)
 
-> Node.js + Express + Typescript + GraphQL
+Node.js + Express + Typescript + GraphQL
 
-**Day 3 - Devops**
+### [Day 3 - Cloud & Devops](/DAY%203%20–%C2%A0CLOUD-DEVOPS.md)
 
-> AWS + Azure + Google Cloud + Serverless functions
+AWS + Azure + Google Cloud + Serverless functions
 
-**DAY 4 - JavaScript**
+### [DAY 4 - JavaScript]()
 
-> React + Angular + Svelte + Next.js + Babel + Webpack
+React + Angular + Svelte + Next.js + Babel + Webpack
 
-**Day 5 - Vue.JS**
+### [DAY 5 - Vue.js]()
 
-> Vue.js + Nuxt.js + Gridsome
+Vue.js + Nuxt.js + Gridsome
