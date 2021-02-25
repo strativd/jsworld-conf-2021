@@ -22,7 +22,7 @@ HTML + CSS + CSS-in-JS + Accessibility + Localization
 
 Node.js + Express + Typescript + GraphQL
 
-### [Day 3 - Cloud & Devops](/DAY%203%20–%C2%A0CLOUD-DEVOPS.md)
+### [Day 3 - Cloud & Devops](/DAY%203%20–%20CLOUD%20%26%20DEVOPS.md)
 
 AWS + Azure + Google Cloud + Serverless functions
 
