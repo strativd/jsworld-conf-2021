@@ -1,11 +1,5 @@
-<div style="
-    width: 100%;
-    background: white;
-    border-radius: 200px;
-    padding: 50px 35px;
-    box-shadow: inset black 0px 0px 15px -10px;
-">
-  <img src="/assets/js-world-conference-logo.png" alt="JS World Conference logo" style="max-width:100%;">
+<div>
+  <img src="/assets/js-world-conference-logo.png" alt="JS World Conference logo">
 </div>
 
 # 2021 JSworld Conference by [Frontend Love](https://frontenddeveloperlove.com/) ❤️
@@ -26,10 +20,10 @@ Node.js + Express + Typescript + GraphQL
 
 AWS + Azure + Google Cloud + Serverless functions
 
-### [DAY 4 - JavaScript]()
+### [DAY 4 - JavaScript](/DAY%204%20–%C2%A0JAVASCRIPT.md)
 
 React + Angular + Svelte + Next.js + Babel + Webpack
 
-### [DAY 5 - Vue.js]()
+### DAY 5 - Vue.js (WIP)
 
 Vue.js + Nuxt.js + Gridsome
