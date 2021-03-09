@@ -8,6 +8,12 @@
 >
 > The World's Premier Javascript Conference of 2021. 100+ Talks, 20 Topics, Panel Discussions, In-depth Interviews & Updates from Creators of Libraries & Authors.
 
+## Highlights
+
+
+
+## Schedule
+
 ### [Day 1 - DesignOps](/DAY%201%20–%C2%A0DESIGN%20OPS.md)
 
 HTML + CSS + CSS-in-JS + Accessibility + Localization
@@ -20,7 +26,7 @@ Node.js + Express + Typescript + GraphQL
 
 AWS + Azure + Google Cloud + Serverless functions
 
-### [DAY 4 - JavaScript](/DAY%204%20–%C2%A0JAVASCRIPT.md)
+### [DAY 4 - JavaScript](/DAY%204%20–%20JAVASCRIPT.md)
 
 React + Angular + Svelte + Next.js + Babel + Webpack
 

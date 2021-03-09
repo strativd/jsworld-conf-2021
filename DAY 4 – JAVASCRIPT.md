@@ -1,11 +1,11 @@
 # DAY 4 – JavaScript
 
 
-* [JavaScript/Web tooling now and tomorrow](#javascript-web-tooling-now-and-tomorrow)
+* [JavaScript & Web tooling now and tomorrow](#javascript-web-tooling-now-and-tomorrow)
   + [Developer Dilemma](#developer-dilemma)
   + [Solutions](#solutions)
 * [The modern DXP](#the-modern-dxp)
-  + [Digital Experience Platform](#dxp-digital-experience-platform)
+  + [Digital Experience Platform](#digital-experience-platform)
   + [Drawbacks for Developers](#drawbacks-for-developers)
   + [Solution: JAMstack DXP](#solution-jamstack-dxp)
 * [Third Age of Javascript](#third-age-of-javascript)
@@ -16,12 +16,11 @@
   + [Considerate TypeScript](#considerate-typescript)
   + [Tips](#tips)
 * [The Rule of Least Power #ROLP](#the-rule-of-least-power-rolp)
-  + [Rule of Least Power](#rule-of-least-power)
   + [Depower by Abstraction](#depower-by-abstraction)
   + [Depower by Convention](#depower-by-convention)
   + [Depower by Types](#depower-by-types)
 
-## JavaScript/Web tooling now and tomorrow
+## JavaScript & Web tooling now and tomorrow
 
 > Tech: JavaScript Tooling, Web Tooling, Browser tooling
 >
