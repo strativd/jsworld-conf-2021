@@ -1,7 +1,7 @@
 # DAY 4 – JavaScript
 
 
-* [JavaScript & Web tooling now and tomorrow](#javascript-web-tooling-now-and-tomorrow)
+* [JavaScript & Web tooling now and tomorrow](#javascript--web-tooling-now-and-tomorrow)
   + [Developer Dilemma](#developer-dilemma)
   + [Solutions](#solutions)
 * [The modern DXP](#the-modern-dxp)
