@@ -8,6 +8,10 @@
 >
 > The World's Premier Javascript Conference of 2021. 100+ Talks, 20 Topics, Panel Discussions, In-depth Interviews & Updates from Creators of Libraries & Authors.
 
+## Videos
+
+There are links to the full video presentation for each talk, available on the schedule for each day (below), or you can [view the full YouTube playlist ▶️](https://www.youtube.com/playlist?list=PL02pdjMT4gWwSivmXGJyi_uiy35vNaGkF)
+
 ## Schedule
 
 ### [Day 1 - DesignOps](/DAY%201%20–%C2%A0DESIGN%20OPS.md)

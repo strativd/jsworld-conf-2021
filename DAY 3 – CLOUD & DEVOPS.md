@@ -26,6 +26,8 @@
 
 ## Developer Experience: Your documentation deserves more love!
 
+**[▶️ Video](https://www.youtube.com/watch?v=I4UkWp_mSUY)**
+
 > Tech: Documentation
 >
 > We often treat documentation as a by-product of our offering. But wait a second. Where do developers spend most of their time? You’re right, digging your documentation to find an answer to their question. So, why not spend some time improving our documentation? In the end, developer experience matters more than ever before. Developers often choose between products based on the user-friendliness of the docs you offer. This talk provides you with love-filled ideas to take your documentation to the next level.
