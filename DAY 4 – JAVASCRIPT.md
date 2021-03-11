@@ -22,6 +22,8 @@
 
 ## JavaScript & Web tooling now and tomorrow
 
+**▶️ [Watch video](https://www.youtube.com/watch?v=TajZ-wjWiKc)**
+
 > Tech: JavaScript Tooling, Web Tooling, Browser tooling
 >
 > We live in amazing times when it comes to browser tooling and open web tooling. Browsers aren't only a thing for end users, but also power our editors and can be automated to do a lot of work for us. In this session we'll take a look how the developer tools in browsers work, how to contribute and what's cooking to make developers more effective and prevent us from making mistakes before we make them.
@@ -64,6 +66,8 @@
 
 
 ## The modern DXP
+
+**▶️ [Watch video](https://www.youtube.com/watch?v=tFtyFzX8R3U)**
 
 > Tech: DXP, JAMstack
 >
@@ -109,6 +113,8 @@ Composing our own stack with an assortment of tools – whatever works best for
 
 ## Third Age of Javascript
 
+**▶️ [Watch video](https://www.youtube.com/watch?v=8cQ7ukBbrbA)**
+
 > Tech: ES Modules, Polyglot Tooling, ES5, Node, ActionScript
 >
 > Every 10 years there is a changing of the guard in JavaScript.
@@ -142,6 +148,8 @@ Examples:
 
 
 ## Composable components using React Context
+
+**▶️ [Watch video](https://www.youtube.com/watch?v=11lU-pl-IzI)**
 
 > Tech: reusable React Component, React Context
 >
@@ -277,6 +285,8 @@ TabsProvider.propTypes = {
 
 ## Building Considerate React Component APIs with TypeScript
 
+**▶️ [Watch video](https://www.youtube.com/watch?v=ywB2-IrJXO8)**
+
 > Tech: TypeScript, React Component API
 >
 > Perhaps we can shift our perspective about TypeScript from a bug catching tool to a developer experience tool that enables us to write reasonable and intuitive code interfaces. In this talk, you will learn how to think like a consumer and take advantage of basic and advanced TypeScript types to enhance the readability of your React component APIs.
@@ -324,6 +334,8 @@ Type script can be loose or strict. It's important to **provide as much context 
 
 
 ## The Rule of Least Power #ROLP
+
+**▶️ [Watch video](https://www.youtube.com/watch?v=iRw8xVfRhYs)**
 
 > Tech: ROLP, Code Writing
 >

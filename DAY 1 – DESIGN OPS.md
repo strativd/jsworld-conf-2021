@@ -17,6 +17,8 @@ _____
 
 ## Design Systems 101
 
+**▶️ [Watch video](https://www.youtube.com/watch?v=vxn-3pZfOVQ)**
+
 > Tech: Design systems
 >
 > *We hear a lot about design systems. What exactly are they? In this talk, I will introduce you to design systems defining what they are, when we should implement them and the steps to build them. We will also review some of the most popular design systems and some interesting tools and resources.*
@@ -55,6 +57,8 @@ Design systems are a **collection of components that work together to build digi
 
 
 ## Access Driven Development
+
+**▶️ [Watch video](https://www.youtube.com/watch?v=O1iP4ATPgWg)**
 
 > Tech: a11y, JavaScript, web accessibility
 >
@@ -372,6 +376,8 @@ https://explore-a11y.netlify.app/testing
 
 ## Third piece of the Frontend Pie: CSS
 
+**▶️ [Watch video](https://www.youtube.com/watch?v=b3yayRI5jM4)**
+
 > Tech: CSS, Sass, SCSS
 >
 > *It just needs a quick look at the Frontend trends to realize that recently the spotlight is on the JavaScript and all of its frameworks, But the Frontend pie has three pieces (HTML, CSS & JS). Without the other pieces, you cannot have a complete pie.*
@@ -403,6 +409,8 @@ CSS provides powerful selectors to perform complex and performant logic on our H
 
 
 ## Encoding Emojis 🤓
+
+**▶️ [Watch video](https://www.youtube.com/watch?v=fudkV2Ytulc)**
 
 > Tech: i18n, [Emoji Encoding](https://dev.to/naeohmi/emoji-encoding-unicode-and-internationalization-with-naomi-meyer-34d3), � Unicode, & Internationalization
 >

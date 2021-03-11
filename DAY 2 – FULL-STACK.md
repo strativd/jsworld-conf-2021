@@ -18,6 +18,8 @@
   + [Why Headless?](#why-headless)
 
 ## Introduction to [Fastify.io](https://www.fastify.io/) for Node.js
+**▶️ [Watch video](https://www.youtube.com/watch?v=qGW0s8erz6I)**
+
 > Tech: Fastify, Node.js, Live-Coding
 >
 > Fastify is a web framework for Node.js that has a great satisfaction across developers with a 89% rating in the last state of javascript. Fastify combines an amazing developer experience with top of the class performance, with minimal reduction on top of Node.js core.
@@ -88,6 +90,8 @@ if (require.main === module) {
 
 
 ## Testing Legacy Frontend Apps
+**▶️ [Watch video](https://www.youtube.com/watch?v=0gc0qrzNH-M)**
+
 > Tech: Frontend Testing, Page Speed, YSlow, Cypress, Jasmine
 >
 > Nobody wants to work with Legacy Code. Yet it’s what many of us do. Complexity in frontend development grew rapidly in the last years. The habit of writing tests did not. Now they are everywhere: massive software systems without any tests in the frontend.
@@ -150,6 +154,8 @@ New feature time, woo! (╯°o°)╯
 
 
 ## [Magic Authentication](https://magic.link/), The Missing LEGO Piece
+**▶️ [Watch video](https://www.youtube.com/watch?v=agppGguqk6M)**
+
 > Tech: JamStack, Magic Authenticaiton
 >
 > Sean will be giving an introduction to Magic passwordless authentication and how it enables developers to effortlessly build more feature-rich Jamstack applications with just a few lines of code.
@@ -199,6 +205,8 @@ const handleLogout = async () => {
 
 
 ## Headless eCommerce with Next.js
+**▶️ [Watch video](https://www.youtube.com/watch?v=BOAHywRRYm4)**
+
 > Tech: Storyblok CMS, Next.js Commerce, Headless CMS
 >
 > Imagine combining a world-class editing experience with a beautiful eCommerce storefront. The result? Everyone is happy:

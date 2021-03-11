@@ -26,7 +26,7 @@
 
 ## Developer Experience: Your documentation deserves more love!
 
-**[▶️ Video](https://www.youtube.com/watch?v=I4UkWp_mSUY)**
+**▶️ [Watch video](https://www.youtube.com/watch?v=I4UkWp_mSUY)**
 
 > Tech: Documentation
 >
@@ -91,6 +91,9 @@ Try to gather feedback from users **while they're using your product**.
 
 
 ## Build a social network with Serverless and GraphQL
+
+**▶️ [Watch video](https://www.youtube.com/watch?v=9n_Hca0XsOk)**
+
 > Tech: Serverless, GraphQL, AppSync, Lambda, Algolia
 >
 > Building a social network in under 4 weeks with Serverless and GraphQL
@@ -116,6 +119,8 @@ Makes it easy to fetch related data without making multiple requests. For exampl
 
 
 ## Security is not a Feature!
+
+**▶️ [Watch video](https://www.youtube.com/watch?v=YmfPSgidMyo)**
 
 > Tech: Web App Security, XSS, XSRF
 >
@@ -186,6 +191,8 @@ Know your **input vectors** – all the ways that your app can accept data (que
 
 
 ## Dungeons, Dragons, and Graph Databases
+
+**▶️ [Watch video](https://www.youtube.com/watch?v=WJogrXBEPy8)**
 
 > Tech: Graph Database, SQL Query, Coding Demo
 >
@@ -284,6 +291,8 @@ MATCH (max:treasure) WITH max(max.gp) as maxgp MATCH (r:room)-[:contains]->(t:tr
 
 
 ## Containerized Deployments for your SPA and API
+**▶️ [Watch video](https://www.youtube.com/watch?v=_9oJeltLIg4)**
+
 > Tech: SPA, API, Vue CLI, dotnet CLI, Kubernetes
 >
 > You've built a SPA and an API backend, and you're now looking to deploy with ease. Kubernetes is the natural fit, but where do we begin?
