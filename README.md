@@ -10,9 +10,9 @@
 
 ## Videos
 
-**[YouTube playlist](https://www.youtube.com/playlist?list=PL02pdjMT4gWwSivmXGJyi_uiy35vNaGkF) ▶️**
+Find links to the video presentation for each talk in the daily schedule below.
 
-There are links to the full video presentation for each talk in the daily schedule below.
+[2021 JSworld YouTube playlist](https://www.youtube.com/playlist?list=PL02pdjMT4gWwSivmXGJyi_uiy35vNaGkF) ▶️
 
 ## Schedule
 
